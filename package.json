@@ -1,0 +1,16 @@
+{
+  "name": "pyramid-user",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "3.3.5",
+    "express-react-views": "0.9.0",
+    "jade": "^1.11.0",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  }
+}
